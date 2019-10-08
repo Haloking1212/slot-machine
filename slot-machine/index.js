@@ -2,6 +2,7 @@ function App() {
     return (
         <div className="App">
             <h1>Welcome to the Slot Machine!</h1>
+            <p>testing git</p>
             <Machine 
             s1="😭"
             s2="😂"
